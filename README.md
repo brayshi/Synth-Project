@@ -1,5 +1,5 @@
 # Music Synth Project
-Developed with C++14 and JUCE framework to develop a synthesizer that can play a sine, saw, or square wave. 
+Developed with C++14 and JUCE to develop a synthesizer that can play a sine, saw, or square wave. 
 When started, an ADSR envelope that can be modified to shape the sound's velocity shape will be displayed. As well, a wave selector box that can change what wave type can be played will be present.
 
 ## Usage
